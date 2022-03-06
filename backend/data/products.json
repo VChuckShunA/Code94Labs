@@ -1,0 +1,45 @@
+[
+  {
+    "name":"SandDisk Ultra 128GB SDXC UHS-I Memory Card up to 80MB/s",
+    "price":"45.89",
+    "SKU":"ABC1",
+    "description":"Ultra-fast cards (2) to take better pictures and Full HD videos (1) with your compact to mid-range point-and-shoot cameras and camcorders. With SanDisk Ultra SDXC UHS-I cards you’ll benefit from faster downloads, high capacity, and better performance to capture and store 128GB (5) of high quality pictures and Full HD video (1). Take advantage of ultra-fast read speeds of up to 80MB/s (3) to save time moving photos and videos from the card to your computer. From a leader in flash memory storage, SanDisk Ultra SDXC UHS-I cards are compatible with SDHC and SDXC digital devices, and come with a 10-year limited warranty (6).",
+    "images":[
+      {
+        "public_id":"products/8194p4lS-3L._AC_SL1500_",
+        "url": "https://res.cloudinary.com/dlndjbhjg/image/upload/v1615118711/avatars/qwg6lqawshfn9myxrnjd.jpg"
+      }
+    ],
+    "quantity":50
+  },
+
+  {
+    "name":"Garmin Forerunner 235, GPS Running Watch, Black/Gray",
+    "price":"149.00",
+    "SKU":"ABC2",
+    "description":"Stay on pace for your next personal record with Forerunner 235, the GPS running watch with Elevate wrist heart rate technology and smart features. Includes activity tracking and connected features like automatic uploads to Garmin Connect, smart notifications and audio prompts, as well as customizable widgets, applications and watch faces from the Connect IQ store.",
+    "images":[
+      {
+        "public_id":"products/819WMWm6NoL._AC_SL1500_",
+        "url": "https://res.cloudinary.com/dlndjbhjg/image/upload/v1615118711/avatars/qwg6lqawshfn9myxrnjd.jpg"
+      }
+    ],
+    "quantity":40
+  },
+
+  {
+    "name":"1080P Business Webcam with Dual Microphone & Privacy Cover",
+    "price":"39.99",
+    "SKU":"ABC3",
+    "description":"Amazon.com Return Policy:You may return any new computer purchased from Amazon.com that is dead on arrival, arrives in damaged condition, or is still in unopened boxes, for a full refund within 30 days of purchase. Amazon.com reserves the right to test dead on arrival returns and impose a customer fee equal to 15 percent of the product sales price if the customer misrepresents the condition of the product. Any returned computer that is damaged through customer misuse, is missing parts, or is in unsellable condition due to customer tampering will result in the customer being charged a higher restocking fee based on the condition of the product. Amazon.com will not accept returns of any desktop or notebook computer more than 30 days after you receive the shipment. New, used, and refurbished products purchased from Marketplace vendors are subject to the returns policy of the individual vendor.",
+    "images":[
+      {
+        "public_id":"products/615HV8SnnEL._AC_SL1494_",
+        "url": "https://res.cloudinary.com/dlndjbhjg/image/upload/v1615118711/avatars/qwg6lqawshfn9myxrnjd.jpg"
+      }
+    ],
+    "quantity":100
+  }
+  
+]
+
