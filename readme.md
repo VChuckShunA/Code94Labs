@@ -1,4 +1,4 @@
-# ShopIT E-commerce Project
+# Code94Oabs E-commerce Project
 
 > Complete E-commerce site built with Node.js, React, Redux, Express, MongoDB
 
